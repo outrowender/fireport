@@ -1,0 +1,8 @@
+{
+    "banco": "/Users/wenderpatrick/Documents/projects/fireport/client-node/db/BASESGMASTER.FDB",
+    "host": "127.0.0.1",
+    "porta": 3050,
+    "usuario": "SYSDBA",
+    "senha": "masterkey",
+    "key": "SSQueLUMxGMo7TpjCZEz"
+}

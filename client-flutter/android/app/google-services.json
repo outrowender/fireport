@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "601111839043",
+    "firebase_url": "https://sgmaster-wendrpatrck.firebaseio.com",
+    "project_id": "sgmaster-wendrpatrck",
+    "storage_bucket": "sgmaster-wendrpatrck.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601111839043:android:c50fcf95b623f17e",
+        "android_client_info": {
+          "package_name": "com.wendrpatrck.fireport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601111839043-qisdvli04p4gm8qajbfnlhmspbhd64bl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wendrpatrck.fireport",
+            "certificate_hash": "7d8f88b5714c384af5330c34434f9da765cc17d6"
+          }
+        },
+        {
+          "client_id": "601111839043-9bhej91mja7psbo6k05flur894315rkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGtJ_BLjsMQiVrV-ve5-Xv3b_oSpQcqEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601111839043-9bhej91mja7psbo6k05flur894315rkq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "601111839043-31vsndtjvlm1oevv4kpas5a971vbsqoc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wendrpatrck.fireport"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
